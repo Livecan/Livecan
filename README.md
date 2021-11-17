@@ -2,4 +2,4 @@
 - 👀 I’m interested in game design, web development and road cycling.
 - 🌱 I’m currently learning Unity (and plan to look at Blender) and Drupal.
 - 💞️ I’m looking to collaborate on creating video games and computer versions of board games.
-- 📫 You can get in touch with me at romi.livecan@gmail.com or Skype: roman.mesi.
+- 📫 You can get in touch with me at roman.meszaros@gmail.com or Skype: roman.mesi.
